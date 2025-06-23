@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "fc02a987d1b5063f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b3744410f7e273c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e642ae8c186181",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f3f738bead23444",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18623829f497cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d85463bb3aa1741",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3203288856087b33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20c347f510642292",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "43931a932512f427",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c0d3ad8ce3e173f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ab0a0a67063ef2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8b984bff79d6aee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f0fa35dd7c5d7232",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3458ef2d31c2fd49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02.Персонажи/Гаретт.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Гаретт"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13e642ae8c186181",
+  "lastOpenFiles": [
+    "01.Заметки/Брук/01.СтранноеСияние.md",
+    "03.Локации/Баатор/баатор-часть-1.md",
+    "03.Локации/Баатор",
+    "01.Заметки/Брук/33.Хтонеон.md",
+    "02.Персонажи/Хэн Ван Тенг.md",
+    "02.Персонажи/Финник.md",
+    "02.Персонажи/Финкри.md",
+    "02.Персонажи/Ферсси.md",
+    "02.Персонажи/Сифильет.md",
+    "02.Персонажи/Сидония.md",
+    "02.Персонажи/Себастьян.md",
+    "02.Персонажи/Самсон.md",
+    "02.Персонажи/Орм.md",
+    "02.Персонажи/Квок.md",
+    "02.Персонажи/Иван.md",
+    "02.Персонажи/Гамора.md",
+    "02.Персонажи/Велимира.md",
+    "02.Персонажи/Брук.md",
+    "02.Персонажи/Босс.md",
+    "02.Персонажи/Батрак.md",
+    "02.Персонажи/Альмонексия.md",
+    "Сидония.md",
+    "Иван.md",
+    "Альмонексия.md",
+    "Брук.md",
+    "01.Заметки/Брук/32.КакБрукСломалТело.md",
+    "01.Заметки/Брук/31.Рокс4.md",
+    "01.Заметки/Брук/Проекты/07.КнигаЗаклов.canvas",
+    "01.Заметки/Брук/Проекты",
+    "01.Заметки/Брук/Предыстория",
+    "01.Заметки/Брук",
+    "01.Заметки/Brook/Проекты/07.КнигаЗаклов.canvas",
+    "01.Заметки/Brook/Проекты",
+    "01.Заметки/Brook/Предыстория",
+    "01.Заметки/Brook",
+    "03.Places",
+    "03.Локации/Механус",
+    "03.Локации/Материальный план/Тян-цзы",
+    "01.Заметки/Хроб/Мотивация.canvas",
+    "01.Заметки/Хроб/HrobsMap.excalidraw.png",
+    "01.Заметки/Hrob/Мотивация.canvas",
+    "01.Заметки/Hrob/HrobsMap.excalidraw.png"
+  ]
+}
